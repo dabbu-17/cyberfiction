@@ -4,7 +4,7 @@ A responsive, interactive clone of the award-winning website Cyberfiction, built
 
 Live Demo
 
-[Insert live demo link]
+Link - https://dabbu-17.github.io/cyberfiction/
 
 Features
 
@@ -36,24 +36,18 @@ This project is licensed under the MIT License.
 
 Author
 
-[Your Name]
+David
 
-[Your Email]
+david.singh.3683@gmial.com
 
-[Your LinkedIn/Other Social Media Profiles]
+https://www.linkedin.com/in/david-singh17
 
 Acknowledgments
 
 - Inspiration from the original Cyberfiction website
 - Special thanks to [mention anyone who helped]
 
-Changelog
 
-- [Insert changes made to the project]
-
-Screenshots
-
-[Insert screenshot links]
 
 Contributing
 
@@ -67,11 +61,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 Contact
 
-For any questions or feedback, please contact me at [Your Email].
+For any questions or feedback, please contact me at david.singh3683@gmail.com.
 
 Original Website Credits
 
-- Original design and concept by [Original Designer/Studio]
-- Award-winning website: [Awards/Mentions]
+- Original design and concept by Team Cyberfiction
+- Award-winning website: https://www.awwwards.com/sites/cyberfiction
 
 Thank you for visiting my Cyberfiction clone!
